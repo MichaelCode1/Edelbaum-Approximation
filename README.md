@@ -1,3 +1,5 @@
 # Edelbaum-Approximation
 
-Purpose: calculate fuel consuption for low thrust orbit transfer.
+Purpose: calculate fuel consumption for low thrust orbit transfer.
+
+Project currently in progress.
