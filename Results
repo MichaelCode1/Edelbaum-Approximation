@@ -1,0 +1,17 @@
+The results of this notebook calculate the low-thrust orbit transfer of a satallite moving from an orbit of 300 km to 550 km. This range is a typical orbit transfer for Starlink satallites to travel after being transported to space. The satallite specifications are approximated since they are not known except for the mass of 260 kg in the v1.5 Starlink satallite.
+
+Output:
+== Satallite Specifications ==
+Initial mass: 260 kg
+Thrust: 0.015 N
+Specific Impulse: 1600 s
+Mass flow rate: 9.56e-07 kg
+
+== Orbit Transfer Analysis ==
+Starting altitude: 300 km
+Final altitude: 550 km
+Time of flight: 4840708 seconds (56.03 days)
+Final mass: 255.37 kg
+Propellant used: 4.63 kg
+
+Plots can be seen in the Plots folder.
